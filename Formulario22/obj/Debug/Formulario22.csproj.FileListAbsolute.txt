@@ -1,0 +1,10 @@
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\bin\Debug\Formulario22.exe.config
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\bin\Debug\Formulario22.exe
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\bin\Debug\Formulario22.pdb
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.csproj.AssemblyReference.cache
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.Form1.resources
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.Properties.Resources.resources
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.csproj.GenerateResource.cache
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.exe
+C:\Users\yuri\Documents\C#\Formulario22\Formulario22\obj\Debug\Formulario22.pdb
